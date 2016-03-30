@@ -13,23 +13,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sinapharm.kz/images/logo.png</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sinapharm.kz/images/logo_2x.png</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://sinapharm.kz/index.html</loc>
     <lastmod>2016-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://sinapharm.kz/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://sinapharm.kz/tablet/index.html"/>
   </url>
 </urlset>

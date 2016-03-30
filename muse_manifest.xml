@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459355935729">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459360428531">
   <folder name="css">
     <file name="site_global.css" crc="3979671798"/>
-    <file name="index.css" crc="143169356" ref="index"/>
+    <file name="index.css" crc="191319178" ref="index"/>
     <file name="iefonts_index.css" crc="386660422" ref="index"/>
   </folder>
   <folder name="assets">
@@ -9,22 +9,16 @@
     <file name="video.webm" crc="3977940113" seo="true" mt="1411101720000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:tablet>index:index"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:tablet>index:index"/>
-    <file name="webpro.js" crc="3883484123" ref="phone>index"/>
-    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:tablet>index:index"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
-    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="464991962" seo="true" ref="phone>index:tablet>index"/>
-    <file name="logo_2x.png" crc="76088949" seo="true" ref="phone>index:tablet>index"/>
-    <file name="tablet-hero-image.jpg" crc="4195758690" ref="phone>index:tablet>index"/>
     <file name="givinghands.jpg" crc="285931539" ref="index"/>
     <file name="pattern_lines-u3883-fr.png" crc="179105178" ref="index"/>
     <file name="pattern_lines-u3883-fr_2x.png" crc="4290729268" ref="index"/>
@@ -34,20 +28,5 @@
     <file name="u651-4.png" crc="37486837" ref="index"/>
     <file name="u651-4_2x.png" crc="239294560" ref="index"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="master_home-master.css" crc="4160027131" ref="tablet>index"/>
-      <file name="index.css" crc="4273123504" ref="tablet>index"/>
-      <file name="iefonts_index.css" crc="18100600" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="34592777" seo="true" mt="1459339994634" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_home-master.css" crc="468900647" ref="phone>index"/>
-      <file name="index.css" crc="330029976" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4273530704" seo="true" mt="1459339994642" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="3834390811" seo="true" mt="1459355756513" redirect="true"/>
+  <file name="index.html" crc="532380885" seo="true" mt="1459360394037" redirect="true"/>
 </manifest>
