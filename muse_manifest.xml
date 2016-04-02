@@ -1,42 +1,42 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459632771307">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459637012337">
   <folder name="css">
     <file name="site_global.css" crc="3758251985"/>
-    <file name="master_a-master.css" crc="4144695783" ref="index:аптека:продукты:контакты"/>
-    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="index:аптека:продукты:контакты"/>
+    <file name="master_a-master.css" crc="4144695783" ref="shop:products:index:contacts"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="shop:products:index:contacts"/>
+    <file name="shop.css" crc="201438083" ref="shop"/>
+    <file name="nomq_shop.css" crc="4160330588" ref="shop"/>
+    <file name="products.css" crc="117609356" ref="products"/>
+    <file name="nomq_products.css" crc="361824545" ref="products"/>
     <file name="index.css" crc="298500948" ref="index"/>
     <file name="nomq_index.css" crc="3899261644" ref="index"/>
     <file name="iefonts_index.css" crc="388353701" ref="index"/>
-    <file name="______1.css" crc="201438083" ref="аптека"/>
-    <file name="nomq_______1.css" crc="4160330588" ref="аптека"/>
-    <file name="________.css" crc="117609356" ref="продукты"/>
-    <file name="nomq_________.css" crc="361824545" ref="продукты"/>
-    <file name="________1.css" crc="211524070" ref="контакты"/>
-    <file name="nomq_________1.css" crc="436396917" ref="контакты"/>
+    <file name="contacts.css" crc="211524070" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="436396917" ref="contacts"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:контакты:аптека:продукты"/>
-    <file name="museutils.js" crc="531812214" ref="index:контакты:аптека:продукты"/>
-    <file name="whatinput.js" crc="84559013" ref="index:контакты:аптека:продукты"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:contacts:shop:products"/>
+    <file name="museutils.js" crc="531812214" ref="index:contacts:shop:products"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contacts:shop:products"/>
     <file name="webpro.js" crc="4156477058" ref="index"/>
     <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
     <file name="touchswipe.js" crc="4174436727" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index:аптека"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="продукты"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:контакты:аптека:продукты"/>
-    <file name="jquery.museresponsive.js" crc="367458044" ref="index:контакты:аптека:продукты"/>
+    <file name="pie.js" crc="3827607177" ref="index:shop"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:contacts:shop:products"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:contacts:shop:products"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="products"/>
   </folder>
   <folder name="images">
     <file name="givinghands_bg.jpg" crc="4036136824" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:контакты:аптека:продукты"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contacts:shop:products"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="sadfasdf.jpg" crc="435062683" ref="продукты"/>
-    <file name="капсулы.jpg" crc="4161857157" ref="продукты"/>
-    <file name="ывафыва.jpg" crc="499784643" ref="продукты"/>
-    <file name="фаыва.jpg" crc="4287918293" ref="продукты"/>
+    <file name="sadfasdf.jpg" crc="435062683" ref="products"/>
+    <file name="капсулы.jpg" crc="4161857157" ref="products"/>
+    <file name="ывафыва.jpg" crc="499784643" ref="products"/>
+    <file name="фаыва.jpg" crc="4287918293" ref="products"/>
   </folder>
-  <file name="index.html" crc="154024397" seo="true" mt="1459632762605" redirect="true"/>
-  <file name="контакты.html" crc="3899151234" seo="true" mt="1459632764674" redirect="true"/>
-  <file name="аптека.html" crc="85968506" seo="true" mt="1459632767741" redirect="true"/>
-  <file name="продукты.html" crc="3810829789" seo="true" mt="1459632769854" redirect="true"/>
+  <file name="index.html" crc="3996221585" seo="true" mt="1459637005422" redirect="true"/>
+  <file name="contacts.html" crc="273300157" seo="true" mt="1459637006960" redirect="true"/>
+  <file name="shop.html" crc="3792699628" seo="true" mt="1459637009312" redirect="true"/>
+  <file name="products.html" crc="452399876" seo="true" mt="1459637011205" redirect="true"/>
 </manifest>
