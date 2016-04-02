@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sinapharm.kz/images/givinghands_bg.jpg</loc>
-    <lastmod>2016-04-02</lastmod>
+    <lastmod>2016-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sinapharm.kz/index.html</loc>
-    <lastmod>2016-04-02</lastmod>
+    <lastmod>2016-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sinapharm.kz/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B.html</loc>
+    <lastmod>2016-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sinapharm.kz/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0.html</loc>
+    <lastmod>2016-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sinapharm.kz/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B.html</loc>
+    <lastmod>2016-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
