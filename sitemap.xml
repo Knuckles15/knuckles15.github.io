@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sinapharm.kz/assets/video.mp4</loc>
-    <lastmod>2014-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sinapharm.kz/assets/video.webm</loc>
-    <lastmod>2014-09-19</lastmod>
+    <loc>http://sinapharm.kz/images/givinghands_bg.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sinapharm.kz/index.html</loc>
-    <lastmod>2016-03-30</lastmod>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
