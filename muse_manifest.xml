@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459691478010">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459691940091">
   <folder name="css">
     <file name="site_global.css" crc="3758251985"/>
     <file name="master_a-master.css" crc="350066793" ref="comparing_efficacy_and_side_effects:neutralizing_antibodies_in_multiple_sclerosis_patients:products:cost_effectiveness_analysis_of_avonex_and_cinnovex:index:contacts:shop:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:papers"/>
@@ -57,13 +57,13 @@
     <file name="arrows.png" crc="3781681239" ref="papers"/>
     <file name="arrows_2x.png" crc="227446704" ref="papers"/>
   </folder>
-  <file name="index.html" crc="4177983775" seo="true" mt="1459691442278" redirect="true"/>
-  <file name="contacts.html" crc="3817127095" seo="true" mt="1459691446476" redirect="true"/>
-  <file name="shop.html" crc="355472913" seo="true" mt="1459691454227" redirect="true"/>
-  <file name="products.html" crc="256010640" seo="true" mt="1459691457747" redirect="true"/>
-  <file name="papers.html" crc="4155313578" seo="true" mt="1459691462278" redirect="true"/>
-  <file name="neutralizing_antibodies_in_multiple_sclerosis_patients.html" crc="180293241" seo="true" mt="1459691466575" redirect="true"/>
-  <file name="cost_effectiveness_analysis_of_avonex_and_cinnovex.html" crc="202606104" seo="true" mt="1459691469645" redirect="true"/>
-  <file name="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.html" crc="4058771374" seo="true" mt="1459691472566" redirect="true"/>
-  <file name="comparing_efficacy_and_side_effects.html" crc="4025915891" seo="true" mt="1459691475924" redirect="true"/>
+  <file name="index.html" crc="4177983775" seo="true" mt="1459691905690" redirect="true"/>
+  <file name="contacts.html" crc="3869212682" seo="true" mt="1459691909415" redirect="true"/>
+  <file name="shop.html" crc="4168956078" seo="true" mt="1459691914578" redirect="true"/>
+  <file name="products.html" crc="256497359" seo="true" mt="1459691919247" redirect="true"/>
+  <file name="papers.html" crc="379803242" seo="true" mt="1459691923564" redirect="true"/>
+  <file name="neutralizing_antibodies_in_multiple_sclerosis_patients.html" crc="180293241" seo="true" mt="1459691927659" redirect="true"/>
+  <file name="cost_effectiveness_analysis_of_avonex_and_cinnovex.html" crc="202606104" seo="true" mt="1459691930857" redirect="true"/>
+  <file name="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.html" crc="4058771374" seo="true" mt="1459691934276" redirect="true"/>
+  <file name="comparing_efficacy_and_side_effects.html" crc="4025915891" seo="true" mt="1459691937778" redirect="true"/>
 </manifest>
