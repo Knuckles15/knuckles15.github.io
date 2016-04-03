@@ -32,6 +32,7 @@
 
 	#u22665
 	{
+		width: 600px;
 		padding-bottom: 57px;
 		top: 0px;
 		right: 22px;
@@ -40,49 +41,78 @@
 	#u22667
 	{
 		width: 434px;
+		padding-bottom: 57px;
 		top: 0px;
 		right: 188px;
 	}
 
 	#u22671-4
 	{
+		width: 102px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 520px;
 	}
 
+	#u22671-4:hover
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 102px;
+	}
+
 	#u22670-4
 	{
+		width: 116px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 404px;
 	}
 
-	#u22668-4
-	{
-		top: 0px;
-		right: 296px;
-	}
-
-	#u22671-4:hover,#u22670-4:hover,#u22668-4:hover
+	#u22670-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
+		width: 116px;
+	}
+
+	#u22668-4
+	{
+		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
+		top: 0px;
+		right: 296px;
 	}
 
 	#u22669-4
 	{
 		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 188px;
 	}
 
-	#u22669-4.MuseLinkActive
+	#u22668-4:hover,#u22669-4.MuseLinkActive
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 108px;
 	}
 
 	#u22666-4
 	{
 		width: 107px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 22px;
 	}
@@ -90,11 +120,13 @@
 	#u22666-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 107px;
 	}
 
 	#u19304-4
 	{
+		line-height: 36px;
 		margin-top: 73px;
 		width: 80.09%;
 		margin-left: 10%;
@@ -109,6 +141,7 @@
 
 	#u19241
 	{
+		height: 400px;
 		margin-top: 36px;
 		width: 73.84%;
 		margin-left: 13.09%;
@@ -118,5 +151,16 @@
 	{
 		width: 73.34%;
 		margin-left: 13.34%;
+	}
+
+	#u21576
+	{
+		left: -173px;
+	}
+
+	#u21577-7
+	{
+		top: -6px;
+		margin-bottom: -6px;
 	}
 

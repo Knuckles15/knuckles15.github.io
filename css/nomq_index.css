@@ -16,6 +16,7 @@
 
 	#slideshowu75
 	{
+		height: 623px;
 		margin-left: 50%;
 		left: -600px;
 	}
@@ -23,6 +24,7 @@
 	#u77,#u4175
 	{
 		width: 1200px;
+		height: 623px;
 	}
 
 	#pu23849
@@ -39,6 +41,7 @@
 
 	#u23851
 	{
+		width: 600px;
 		padding-bottom: 57px;
 		top: 0px;
 		right: 22px;
@@ -47,49 +50,78 @@
 	#u23852
 	{
 		width: 434px;
+		padding-bottom: 57px;
 		top: 0px;
 		right: 188px;
 	}
 
 	#u23856-4
 	{
+		width: 102px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 520px;
 	}
 
+	#u23856-4.MuseLinkActive
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 102px;
+	}
+
 	#u23853-4
 	{
+		width: 116px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 404px;
 	}
 
-	#u23854-4
-	{
-		top: 0px;
-		right: 296px;
-	}
-
-	#u23856-4.MuseLinkActive,#u23853-4:hover,#u23854-4:hover
+	#u23853-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
+		width: 116px;
+	}
+
+	#u23854-4
+	{
+		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
+		top: 0px;
+		right: 296px;
 	}
 
 	#u23855-4
 	{
 		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 188px;
 	}
 
-	#u23855-4:hover
+	#u23854-4:hover,#u23855-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 108px;
 	}
 
 	#u23857-4
 	{
 		width: 107px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 22px;
 	}
@@ -97,6 +129,7 @@
 	#u23857-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 107px;
 	}
 
@@ -110,6 +143,8 @@
 	{
 		width: 714px;
 		min-height: 118px;
+		font-size: 48px;
+		line-height: 58px;
 		top: -375px;
 		margin-bottom: -118px;
 		margin-left: 50%;
@@ -118,17 +153,30 @@
 
 	#u20488-4
 	{
+		width: 288px;
+		min-height: 38px;
+		line-height: 38px;
 		top: -198px;
+		margin-bottom: -40px;
 		left: -144px;
 	}
 
 	#u20488-4:hover
 	{
+		margin-bottom: -40px;
+		min-height: 38px;
+		width: 288px;
 		left: -144px;
+	}
+
+	#u20488-2
+	{
+		font-size: 15px;
 	}
 
 	#u1192-4
 	{
+		line-height: 36px;
 		margin-top: 42px;
 		width: 80.09%;
 		margin-left: 10%;
@@ -167,5 +215,17 @@
 		margin-top: 4px;
 		width: 73.34%;
 		margin-left: 13.34%;
+	}
+
+	#u21576
+	{
+		margin-top: 31px;
+		left: -173px;
+	}
+
+	#u21577-7
+	{
+		top: -6px;
+		margin-bottom: -6px;
 	}
 

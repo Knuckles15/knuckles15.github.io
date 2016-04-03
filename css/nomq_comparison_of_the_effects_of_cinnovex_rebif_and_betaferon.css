@@ -8,16 +8,11 @@
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 573.0829846802833px;
-		padding-bottom: 26.91701531971671px;
-	}
-
 	#pu26849
 	{
+		width: 0.01px;
 		padding-bottom: 57px;
-		width: 100%;
+		margin-right: -10000px;
 	}
 
 	#u26849
@@ -31,8 +26,15 @@
 		left: 112px;
 	}
 
+	#u26850
+	{
+		width: 878px;
+		left: -439px;
+	}
+
 	#u26851
 	{
+		width: 600px;
 		padding-bottom: 57px;
 		top: 0px;
 		right: 22px;
@@ -41,49 +43,78 @@
 	#u26852
 	{
 		width: 434px;
+		padding-bottom: 57px;
 		top: 0px;
 		right: 188px;
 	}
 
 	#u26853-4
 	{
+		width: 102px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 520px;
 	}
 
+	#u26853-4:hover
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 102px;
+	}
+
 	#u26856-4
 	{
+		width: 116px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 404px;
 	}
 
-	#u26855-4
-	{
-		top: 0px;
-		right: 296px;
-	}
-
-	#u26853-4:hover,#u26856-4:hover,#u26855-4:hover
+	#u26856-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
+		width: 116px;
+	}
+
+	#u26855-4
+	{
+		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
+		top: 0px;
+		right: 296px;
 	}
 
 	#u26854-4
 	{
 		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 188px;
 	}
 
-	#u26854-4:hover
+	#u26855-4:hover,#u26854-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 108px;
 	}
 
 	#u26857-4
 	{
 		width: 107px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 22px;
 	}
@@ -91,41 +122,24 @@
 	#u26857-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 107px;
-	}
-
-	#u26858
-	{
-		margin-top: 21px;
-		width: 7.84%;
-		margin-left: 14.92%;
-	}
-
-	#u26860
-	{
-		width: 10.64%;
-	}
-
-	#u26859-4
-	{
-		width: 80.86%;
-		left: 19.15%;
-	}
-
-	#u26850
-	{
-		margin-top: 17px;
-		left: -439px;
 	}
 
 	#u22348
 	{
 		width: 73.34%;
-		margin-left: 13.34%;
+		left: 13.34%;
 	}
 
 	#u21576
 	{
-		margin-top: 30px;
+		left: -173px;
+	}
+
+	#u21577-7
+	{
+		top: -6px;
+		margin-bottom: -6px;
 	}
 

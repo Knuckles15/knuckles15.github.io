@@ -8,16 +8,11 @@
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 573.0829846802833px;
-		padding-bottom: 26.91701531971671px;
-	}
-
 	#pu26739
 	{
+		width: 0.01px;
 		padding-bottom: 57px;
-		width: 100%;
+		margin-right: -10000px;
 	}
 
 	#u26739
@@ -31,8 +26,16 @@
 		left: 112px;
 	}
 
+	#u26738
+	{
+		width: 878px;
+		min-height: 504px;
+		left: -439px;
+	}
+
 	#u26740
 	{
+		width: 600px;
 		padding-bottom: 57px;
 		top: 0px;
 		right: 22px;
@@ -41,49 +44,78 @@
 	#u26741
 	{
 		width: 434px;
+		padding-bottom: 57px;
 		top: 0px;
 		right: 188px;
 	}
 
 	#u26743-4
 	{
+		width: 102px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 520px;
 	}
 
+	#u26743-4:hover
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 102px;
+	}
+
 	#u26745-4
 	{
+		width: 116px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 404px;
 	}
 
-	#u26742-4
-	{
-		top: 0px;
-		right: 296px;
-	}
-
-	#u26743-4:hover,#u26745-4:hover,#u26742-4:hover
+	#u26745-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
+		width: 116px;
+	}
+
+	#u26742-4
+	{
+		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
+		top: 0px;
+		right: 296px;
 	}
 
 	#u26744-4
 	{
 		width: 108px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 188px;
 	}
 
-	#u26744-4:hover
+	#u26742-4:hover,#u26744-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 108px;
 	}
 
 	#u26746-4
 	{
 		width: 107px;
+		min-height: 57px;
+		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 22px;
 	}
@@ -91,41 +123,24 @@
 	#u26746-4:hover
 	{
 		margin-left: 0px;
+		min-height: 57px;
 		width: 107px;
-	}
-
-	#u26747
-	{
-		margin-top: 21px;
-		width: 7.84%;
-		margin-left: 14.92%;
-	}
-
-	#u26749
-	{
-		width: 10.64%;
-	}
-
-	#u26748-4
-	{
-		width: 80.86%;
-		left: 19.15%;
-	}
-
-	#u26738
-	{
-		margin-top: 17px;
-		left: -439px;
 	}
 
 	#u22348
 	{
 		width: 73.34%;
-		margin-left: 13.34%;
+		left: 13.34%;
 	}
 
 	#u21576
 	{
-		margin-top: 30px;
+		left: -173px;
+	}
+
+	#u21577-7
+	{
+		top: -6px;
+		margin-bottom: -6px;
 	}
 
