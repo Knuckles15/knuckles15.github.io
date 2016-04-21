@@ -10,8 +10,14 @@
 
 	#page
 	{
-		min-height: 573.0829846802832px;
-		padding-bottom: 26.917015319716825px;
+		min-height: 599.0784392257377px;
+		padding-bottom: 1px;
+	}
+
+	#page_position_content
+	{
+		padding-bottom: 26px;
+		width: 100%;
 	}
 
 	#pu24590
@@ -30,98 +36,108 @@
 		left: 112px;
 	}
 
-	#u24592
+	#u30322,#u30323
 	{
-		width: 600px;
+		width: 649px;
 		padding-bottom: 57px;
 		top: 0px;
-		right: 22px;
+		right: 20px;
 	}
 
-	#u24594
+	#u30324
 	{
 		width: 434px;
 		padding-bottom: 57px;
 		top: 0px;
-		right: 188px;
+		right: 235px;
 	}
 
-	#u24595-4
+	#u30328-4
 	{
 		width: 102px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 520px;
+		right: 567px;
 	}
 
-	#u24595-4:hover
+	#u30328-4:hover
 	{
 		margin-left: 0px;
 		min-height: 57px;
 		width: 102px;
 	}
 
-	#u24597-4
+	#u30325-4
 	{
 		width: 116px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 404px;
+		right: 451px;
 	}
 
-	#u24597-4:hover
+	#u30325-4:hover
 	{
 		margin-left: 0px;
 		min-height: 57px;
 		width: 116px;
 	}
 
-	#u24598-4
+	#u30327-4
 	{
 		width: 108px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
-		top: 0px;
-		right: 296px;
-	}
-
-	#u24596-4
-	{
-		width: 108px;
-		min-height: 57px;
 		line-height: 14px;
-		font-size: 12px;
 		top: 0px;
-		right: 188px;
+		right: 343px;
 	}
 
-	#u24598-4:hover,#u24596-4:hover
+	#u30326-4
 	{
-		margin-left: 0px;
-		min-height: 57px;
 		width: 108px;
+		min-height: 57px;
+		font-size: 12px;
+		line-height: 14px;
+		top: 0px;
+		right: 235px;
 	}
 
-	#u24593-4
+	#u30329-4
 	{
 		width: 107px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 22px;
+		right: 20px;
 	}
 
-	#u24593-4.MuseLinkActive
+	#u30329-4.MuseLinkActive
 	{
 		margin-left: 0px;
 		min-height: 57px;
 		width: 107px;
+	}
+
+	#u30330-4
+	{
+		width: 108px;
+		min-height: 57px;
+		font-size: 12px;
+		line-height: 14px;
+		top: 0px;
+		right: 127px;
+	}
+
+	#u30327-4:hover,#u30326-4:hover,#u30330-4:hover
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 108px;
 	}
 
 	#u19671-4
@@ -175,7 +191,9 @@
 
 	#u21577-7
 	{
+		width: 189px;
 		top: -6px;
 		margin-bottom: -6px;
+		left: -96px;
 	}
 

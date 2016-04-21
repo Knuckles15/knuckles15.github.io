@@ -1,31 +1,38 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1459691940091">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sinapharm.kz" resolutions="1x,2x" timestamp="1461233673243">
   <folder name="css">
     <file name="site_global.css" crc="3758251985"/>
-    <file name="master_a-master.css" crc="350066793" ref="comparing_efficacy_and_side_effects:neutralizing_antibodies_in_multiple_sclerosis_patients:products:cost_effectiveness_analysis_of_avonex_and_cinnovex:index:contacts:shop:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:papers"/>
-    <file name="nomq_preview_master_a-master.css" crc="145766999" ref="comparing_efficacy_and_side_effects:neutralizing_antibodies_in_multiple_sclerosis_patients:products:cost_effectiveness_analysis_of_avonex_and_cinnovex:index:contacts:shop:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:papers"/>
-    <file name="comparing_efficacy_and_side_effects.css" crc="4045276961" ref="comparing_efficacy_and_side_effects"/>
-    <file name="nomq_comparing_efficacy_and_side_effects.css" crc="395234508" ref="comparing_efficacy_and_side_effects"/>
-    <file name="iefonts_comparing_efficacy_and_side_effects.css" crc="388353701" ref="comparing_efficacy_and_side_effects"/>
-    <file name="neutralizing_antibodies_in_multiple_sclerosis_patients.css" crc="4010713741" ref="neutralizing_antibodies_in_multiple_sclerosis_patients"/>
-    <file name="nomq_neutralizing_antibodies_in_multiple_sclerosis_patients.css" crc="28492019" ref="neutralizing_antibodies_in_multiple_sclerosis_patients"/>
-    <file name="iefonts_neutralizing_antibodies_in_multiple_sclerosis_patients.css" crc="388353701" ref="neutralizing_antibodies_in_multiple_sclerosis_patients"/>
-    <file name="products.css" crc="64297282" ref="products"/>
-    <file name="nomq_products.css" crc="4216800785" ref="products"/>
-    <file name="cost_effectiveness_analysis_of_avonex_and_cinnovex.css" crc="194834737" ref="cost_effectiveness_analysis_of_avonex_and_cinnovex"/>
-    <file name="nomq_cost_effectiveness_analysis_of_avonex_and_cinnovex.css" crc="137981454" ref="cost_effectiveness_analysis_of_avonex_and_cinnovex"/>
+    <file name="master_a-master.css" crc="4173500400" ref="contacts:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:pharma_nadzor:shop:products:comparing_efficacy_and_side_effects:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="145766999" ref="contacts:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:pharma_nadzor:shop:products:comparing_efficacy_and_side_effects:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:index"/>
+    <file name="contacts.css" crc="4107236976" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="4266210696" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="388353701" ref="contacts"/>
+    <file name="cost_effectiveness_analysis_of_avonex_and_cinnovex.css" crc="375182020" ref="cost_effectiveness_analysis_of_avonex_and_cinnovex"/>
+    <file name="nomq_cost_effectiveness_analysis_of_avonex_and_cinnovex.css" crc="500922210" ref="cost_effectiveness_analysis_of_avonex_and_cinnovex"/>
     <file name="iefonts_cost_effectiveness_analysis_of_avonex_and_cinnovex.css" crc="388353701" ref="cost_effectiveness_analysis_of_avonex_and_cinnovex"/>
-    <file name="index.css" crc="219546695" ref="index"/>
-    <file name="nomq_index.css" crc="217479622" ref="index"/>
-    <file name="iefonts_index.css" crc="388353701" ref="index"/>
-    <file name="contacts.css" crc="514865608" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="446981019" ref="contacts"/>
-    <file name="shop.css" crc="4268921371" ref="shop"/>
-    <file name="nomq_shop.css" crc="3826349043" ref="shop"/>
-    <file name="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.css" crc="3944872282" ref="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon"/>
-    <file name="nomq_comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.css" crc="295124830" ref="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon"/>
+    <file name="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.css" crc="3825435165" ref="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon"/>
+    <file name="nomq_comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.css" crc="4174324862" ref="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon"/>
     <file name="iefonts_comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.css" crc="388353701" ref="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon"/>
-    <file name="papers.css" crc="3838324785" ref="papers"/>
-    <file name="nomq_papers.css" crc="76701371" ref="papers"/>
+    <file name="pharma_nadzor.css" crc="3980443329" ref="pharma_nadzor"/>
+    <file name="nomq_pharma_nadzor.css" crc="3764156194" ref="pharma_nadzor"/>
+    <file name="iefonts_pharma_nadzor.css" crc="388353701" ref="pharma_nadzor"/>
+    <file name="shop.css" crc="31227549" ref="shop"/>
+    <file name="nomq_shop.css" crc="4021174183" ref="shop"/>
+    <file name="iefonts_shop.css" crc="388353701" ref="shop"/>
+    <file name="products.css" crc="359247211" ref="products"/>
+    <file name="nomq_products.css" crc="507354450" ref="products"/>
+    <file name="iefonts_products.css" crc="388353701" ref="products"/>
+    <file name="comparing_efficacy_and_side_effects.css" crc="3998604665" ref="comparing_efficacy_and_side_effects"/>
+    <file name="nomq_comparing_efficacy_and_side_effects.css" crc="40150881" ref="comparing_efficacy_and_side_effects"/>
+    <file name="iefonts_comparing_efficacy_and_side_effects.css" crc="388353701" ref="comparing_efficacy_and_side_effects"/>
+    <file name="papers.css" crc="444168782" ref="papers"/>
+    <file name="nomq_papers.css" crc="121875897" ref="papers"/>
+    <file name="iefonts_papers.css" crc="388353701" ref="papers"/>
+    <file name="neutralizing_antibodies_in_multiple_sclerosis_patients.css" crc="4091930100" ref="neutralizing_antibodies_in_multiple_sclerosis_patients"/>
+    <file name="nomq_neutralizing_antibodies_in_multiple_sclerosis_patients.css" crc="492131683" ref="neutralizing_antibodies_in_multiple_sclerosis_patients"/>
+    <file name="iefonts_neutralizing_antibodies_in_multiple_sclerosis_patients.css" crc="388353701" ref="neutralizing_antibodies_in_multiple_sclerosis_patients"/>
+    <file name="index.css" crc="88391935" ref="index"/>
+    <file name="nomq_index.css" crc="208513283" ref="index"/>
+    <file name="iefonts_index.css" crc="388353701" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="neutralizing-antibodies-in-multiple-sclerosis-patients-on-weekly-(2).pdf" crc="78994268" seo="true" mt="1459684660000"/>
@@ -34,21 +41,21 @@
     <file name="comparing-efficacy-and-side-effects-of-a-weekly-intramuscula.pdf" crc="3768048311" seo="true" mt="1459684668000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects"/>
-    <file name="museutils.js" crc="531812214" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects"/>
-    <file name="whatinput.js" crc="84559013" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects:pharma_nadzor"/>
+    <file name="museutils.js" crc="531812214" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects:pharma_nadzor"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects:pharma_nadzor"/>
     <file name="webpro.js" crc="4156477058" ref="index"/>
     <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
     <file name="touchswipe.js" crc="4174436727" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index:shop"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects"/>
-    <file name="jquery.museresponsive.js" crc="367458044" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects:pharma_nadzor"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects:pharma_nadzor"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="products:papers"/>
   </folder>
   <folder name="images">
     <file name="givinghands_bg.jpg" crc="4036136824" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contacts:shop:products:papers:neutralizing_antibodies_in_multiple_sclerosis_patients:cost_effectiveness_analysis_of_avonex_and_cinnovex:comparison_of_the_effects_of_cinnovex_rebif_and_betaferon:comparing_efficacy_and_side_effects:pharma_nadzor"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="без-имени-1.jpg" crc="389866899" ref="products"/>
     <file name="без-имени-2.jpg" crc="433211380" ref="products"/>
@@ -57,13 +64,14 @@
     <file name="arrows.png" crc="3781681239" ref="papers"/>
     <file name="arrows_2x.png" crc="227446704" ref="papers"/>
   </folder>
-  <file name="index.html" crc="4177983775" seo="true" mt="1459691905690" redirect="true"/>
-  <file name="contacts.html" crc="3869212682" seo="true" mt="1459691909415" redirect="true"/>
-  <file name="shop.html" crc="4168956078" seo="true" mt="1459691914578" redirect="true"/>
-  <file name="products.html" crc="256497359" seo="true" mt="1459691919247" redirect="true"/>
-  <file name="papers.html" crc="379803242" seo="true" mt="1459691923564" redirect="true"/>
-  <file name="neutralizing_antibodies_in_multiple_sclerosis_patients.html" crc="180293241" seo="true" mt="1459691927659" redirect="true"/>
-  <file name="cost_effectiveness_analysis_of_avonex_and_cinnovex.html" crc="202606104" seo="true" mt="1459691930857" redirect="true"/>
-  <file name="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.html" crc="4058771374" seo="true" mt="1459691934276" redirect="true"/>
-  <file name="comparing_efficacy_and_side_effects.html" crc="4025915891" seo="true" mt="1459691937778" redirect="true"/>
+  <file name="index.html" crc="46604966" seo="true" mt="1461233645892" redirect="true"/>
+  <file name="contacts.html" crc="84152664" seo="true" mt="1461233648482" redirect="true"/>
+  <file name="shop.html" crc="480865847" seo="true" mt="1461233650866" redirect="true"/>
+  <file name="products.html" crc="526157057" seo="true" mt="1461233653642" redirect="true"/>
+  <file name="papers.html" crc="3917072928" seo="true" mt="1461233657159" redirect="true"/>
+  <file name="neutralizing_antibodies_in_multiple_sclerosis_patients.html" crc="367600030" seo="true" mt="1461233660453" redirect="true"/>
+  <file name="cost_effectiveness_analysis_of_avonex_and_cinnovex.html" crc="3840961028" seo="true" mt="1461233662971" redirect="true"/>
+  <file name="comparison_of_the_effects_of_cinnovex_rebif_and_betaferon.html" crc="363085150" seo="true" mt="1461233665522" redirect="true"/>
+  <file name="comparing_efficacy_and_side_effects.html" crc="56081458" seo="true" mt="1461233668687" redirect="true"/>
+  <file name="pharma_nadzor.html" crc="3870231898" seo="true" mt="1461233671234" redirect="true"/>
 </manifest>

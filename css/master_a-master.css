@@ -5,17 +5,17 @@
 
 #u21576
 {
-	border-color: transparent;
-	background-color: transparent;
 	border-width: 0px;
+	background-color: transparent;
+	border-color: transparent;
 }
 
 #u21579-5
 {
 	color: #727272;
+	background-color: transparent;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
-	background-color: transparent;
 }
 
 #u21579-2
@@ -27,21 +27,21 @@
 #u21577-7
 {
 	color: #727272;
-	font-family: pt-sans, sans-serif;
 	text-align: center;
-	letter-spacing: 1px;
-	font-weight: 400;
 	background-color: transparent;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	letter-spacing: 1px;
 }
 
 #u21580-4
 {
 	color: #727272;
-	letter-spacing: 2px;
-	font-family: raleway, sans-serif;
 	text-align: center;
-	font-weight: 400;
 	background-color: transparent;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	letter-spacing: 2px;
 }
 
 @media (min-width: 1039px)

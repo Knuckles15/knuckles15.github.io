@@ -10,8 +10,14 @@
 
 	#page
 	{
-		min-height: 573.0829846802833px;
-		padding-bottom: 26.91701531971671px;
+		min-height: 599.0284392257378px;
+		padding-bottom: 1px;
+	}
+
+	#page_position_content
+	{
+		padding-bottom: 26px;
+		width: 100%;
 	}
 
 	#pu24761
@@ -30,98 +36,108 @@
 		left: 112px;
 	}
 
-	#u24754
+	#u30128,#u30129
 	{
-		width: 600px;
+		width: 649px;
 		padding-bottom: 57px;
 		top: 0px;
-		right: 22px;
+		right: 20px;
 	}
 
-	#u24755
+	#u30130
 	{
 		width: 434px;
 		padding-bottom: 57px;
 		top: 0px;
-		right: 188px;
+		right: 235px;
 	}
 
-	#u24757-4
+	#u30134-4
 	{
 		width: 102px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 520px;
+		right: 567px;
 	}
 
-	#u24757-4:hover
+	#u30134-4:hover
 	{
 		margin-left: 0px;
 		min-height: 57px;
 		width: 102px;
 	}
 
-	#u24759-4
+	#u30131-4
 	{
 		width: 116px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 404px;
+		right: 451px;
 	}
 
-	#u24759-4:hover
+	#u30131-4:hover
 	{
 		margin-left: 0px;
 		min-height: 57px;
 		width: 116px;
 	}
 
-	#u24758-4
+	#u30133-4
 	{
 		width: 108px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
-		top: 0px;
-		right: 296px;
-	}
-
-	#u24756-4
-	{
-		width: 108px;
-		min-height: 57px;
 		line-height: 14px;
-		font-size: 12px;
 		top: 0px;
-		right: 188px;
+		right: 343px;
 	}
 
-	#u24758-4.MuseLinkActive,#u24756-4:hover
+	#u30132-4
 	{
-		margin-left: 0px;
-		min-height: 57px;
 		width: 108px;
+		min-height: 57px;
+		font-size: 12px;
+		line-height: 14px;
+		top: 0px;
+		right: 235px;
 	}
 
-	#u24760-4
+	#u30135-4
 	{
 		width: 107px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 22px;
+		right: 20px;
 	}
 
-	#u24760-4:hover
+	#u30135-4:hover
 	{
 		margin-left: 0px;
 		min-height: 57px;
 		width: 107px;
+	}
+
+	#u30136-4
+	{
+		width: 108px;
+		min-height: 57px;
+		font-size: 12px;
+		line-height: 14px;
+		top: 0px;
+		right: 127px;
+	}
+
+	#u30133-4.MuseLinkActive,#u30132-4:hover,#u30136-4:hover
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 108px;
 	}
 
 	#u24751-4
@@ -199,7 +215,9 @@
 
 	#u21577-7
 	{
+		width: 189px;
 		top: -6px;
 		margin-bottom: -6px;
+		left: -96px;
 	}
 

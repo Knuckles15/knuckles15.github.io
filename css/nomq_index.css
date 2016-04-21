@@ -10,8 +10,8 @@
 
 	#page
 	{
-		min-height: 1173.6784392257389px;
-		padding-bottom: 26.321560774261116px;
+		min-height: 1173.628439225739px;
+		padding-bottom: 26.37156077426107px;
 	}
 
 	#slideshowu75
@@ -39,12 +39,12 @@
 		height: 57px;
 	}
 
-	#u23851
+	#u29046,#u23851
 	{
-		width: 600px;
+		width: 649px;
 		padding-bottom: 57px;
 		top: 0px;
-		right: 22px;
+		right: 20px;
 	}
 
 	#u23852
@@ -52,17 +52,19 @@
 		width: 434px;
 		padding-bottom: 57px;
 		top: 0px;
-		right: 188px;
+		right: 235px;
 	}
 
 	#u23856-4
 	{
 		width: 102px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
+		font-family: open-sans, sans-serif;
+		font-weight: 600;
 		top: 0px;
-		right: 520px;
+		right: 567px;
 	}
 
 	#u23856-4.MuseLinkActive
@@ -76,10 +78,10 @@
 	{
 		width: 116px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 404px;
+		right: 451px;
 	}
 
 	#u23853-4:hover
@@ -93,37 +95,30 @@
 	{
 		width: 108px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 296px;
+		right: 343px;
 	}
 
 	#u23855-4
 	{
 		width: 108px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 188px;
-	}
-
-	#u23854-4:hover,#u23855-4:hover
-	{
-		margin-left: 0px;
-		min-height: 57px;
-		width: 108px;
+		right: 235px;
 	}
 
 	#u23857-4
 	{
 		width: 107px;
 		min-height: 57px;
-		line-height: 14px;
 		font-size: 12px;
+		line-height: 14px;
 		top: 0px;
-		right: 22px;
+		right: 20px;
 	}
 
 	#u23857-4:hover
@@ -131,6 +126,23 @@
 		margin-left: 0px;
 		min-height: 57px;
 		width: 107px;
+	}
+
+	#u29034-4
+	{
+		width: 108px;
+		min-height: 57px;
+		font-size: 12px;
+		line-height: 14px;
+		top: 0px;
+		right: 127px;
+	}
+
+	#u23854-4:hover,#u23855-4:hover,#u29034-4:hover
+	{
+		margin-left: 0px;
+		min-height: 57px;
+		width: 108px;
 	}
 
 	#u23850-5
@@ -225,7 +237,9 @@
 
 	#u21577-7
 	{
+		width: 189px;
 		top: -6px;
 		margin-bottom: -6px;
+		left: -96px;
 	}
 
