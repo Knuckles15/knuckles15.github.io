@@ -1,19 +1,19 @@
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #44C0FF;
+	color: #000000;
+	background-color: #784CDC;
 }
 
 #page
 {
 	background-color: transparent;
 	border-color: #000000;
-	z-index: 1;
-	margin-right: auto;
-	width: 100%;
-	border-width: 0px;
-	margin-left: auto;
 	background-image: none;
+	border-width: 0px;
+	width: 100%;
+	z-index: 1;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #pslideshowu75
@@ -23,10 +23,10 @@
 
 #slideshowu75
 {
+	position: relative;
+	width: 0.01px;
 	z-index: 20;
 	margin-right: -10000px;
-	width: 0.01px;
-	position: relative;
 }
 
 #u77
@@ -42,12 +42,12 @@
 
 #u4175
 {
-	position: relative;
 	background-color: transparent;
 	border-color: transparent;
+	position: relative;
+	border-width: 0px;
 	z-index: 22;
 	margin-right: -10000px;
-	border-width: 0px;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton
@@ -62,21 +62,21 @@
 
 #top
 {
-	margin-right: -10000px;
-	margin-top: 1px;
-	width: 22px;
 	left: 560px;
+	width: 22px;
+	margin-top: 1px;
+	margin-right: -10000px;
 	position: relative;
 }
 
 #u23849
 {
 	background-color: #FFFFFF;
-	border-color: #C9C9C9;
-	z-index: 57;
 	position: fixed;
-	top: 0px;
 	border-style: solid;
+	z-index: 57;
+	top: 0px;
+	border-color: #C9C9C9;
 	border-width: 0px 0px 1px;
 }
 
@@ -87,17 +87,17 @@
 
 #u23850-5
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
-	letter-spacing: 1px;
-	z-index: 58;
-	font-size: 22px;
-	font-family: pt-sans, sans-serif;
 	min-height: 32px;
-	width: 213px;
 	line-height: 26px;
+	font-family: pt-sans, sans-serif;
+	letter-spacing: 1px;
+	font-size: 22px;
+	width: 213px;
+	z-index: 58;
 }
 
 #u23850-2
@@ -109,122 +109,122 @@
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 63;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 63;
 }
 
 #u23851
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 64;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 64;
 }
 
 #u23852
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 65;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 65;
 }
 
 #u23856-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	letter-spacing: 1px;
 	z-index: 78;
 }
 
 #u23856-4.MuseLinkActive
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	padding-top: 0px;
-	opacity: 1;
-	filter: alpha(opacity=100);
 	margin-bottom: 0px;
+	filter: alpha(opacity=100);
+	opacity: 1;
 	border-color: #29ABE2;
-	margin-right: 0px;
 	margin-top: 0px;
 	padding-bottom: 0px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	padding-top: 0px;
+	margin-right: 0px;
 }
 
 #u23856-4.MuseLinkActive p
 {
 	color: #29ABE2;
-	font-weight: 700;
 	visibility: inherit;
 	font-style: normal;
 	font-family: pt-sans, sans-serif;
+	font-weight: 700;
 }
 
 #u23853-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 74;
-	font-family: pt-sans, sans-serif;
 }
 
 #u23854-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 66;
-	font-family: pt-sans, sans-serif;
 }
 
 #u23855-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 70;
-	font-family: pt-sans, sans-serif;
 }
 
 #u23857-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 82;
-	font-family: pt-sans, sans-serif;
 }
 
 #u29034-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 86;
-	font-family: pt-sans, sans-serif;
 }
 
 #u23853-4:hover,#u23854-4:hover,#u23855-4:hover,#u23857-4:hover,#u29034-4:hover
 {
+	margin-top: 0px;
+	padding-bottom: 0px;
 	padding-top: 0px;
 	margin-bottom: 0px;
-	padding-bottom: 0px;
 	margin-right: 0px;
-	margin-top: 0px;
 }
 
 #u23853-4:hover p,#u23854-4:hover p,#u23855-4:hover p,#u23857-4:hover p,#u29034-4:hover p
@@ -240,38 +240,38 @@
 
 #u1187-4
 {
+	background-color: transparent;
 	color: #FFFFFF;
 	text-align: center;
-	background-color: transparent;
-	z-index: 24;
 	font-weight: 400;
-	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
+	letter-spacing: 1px;
 	position: relative;
+	z-index: 24;
 }
 
 #u20488-4
 {
-	margin-left: 50%;
 	background-color: transparent;
 	z-index: 28;
-	font-weight: 400;
 	border-style: solid;
-	border-radius: 2px;
 	border-width: 1px;
-	border-color: #FFFFFF;
+	margin-left: 50%;
+	font-weight: 400;
+	border-radius: 2px;
 	position: relative;
+	border-color: #FFFFFF;
 }
 
 #u20488-4:hover
 {
-	padding-top: 0px;
 	background-color: #FFFFFF;
 	border-color: #FFFFFF;
-	margin-right: 0px;
 	margin-top: 0px;
 	padding-bottom: 0px;
 	margin-left: 50%;
+	padding-top: 0px;
+	margin-right: 0px;
 }
 
 #u20488-4:hover p
@@ -289,46 +289,46 @@
 #u1192-4
 {
 	background-color: transparent;
-	position: relative;
 	min-height: 53px;
-	font-weight: 400;
+	position: relative;
 	z-index: 52;
+	font-weight: 400;
 }
 
 #u1192-2
 {
-	font-family: pt-sans, sans-serif;
 	color: #383838;
+	font-family: pt-sans, sans-serif;
 }
 
 #u1294-4
 {
-	font-weight: 400;
-	font-family: pt-sans, sans-serif;
 	background-color: transparent;
-	position: relative;
 	min-height: 40px;
+	font-family: pt-sans, sans-serif;
+	position: relative;
 	z-index: 48;
+	font-weight: 400;
 }
 
 #u1191-7
 {
-	text-align: center;
 	background-color: transparent;
 	position: relative;
+	text-align: center;
+	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	z-index: 32;
-	font-family: pt-sans, sans-serif;
 }
 
 #u1196-9
 {
-	position: relative;
 	background-color: transparent;
 	min-height: 107px;
-	font-weight: 400;
 	font-family: pt-sans, sans-serif;
+	position: relative;
 	z-index: 39;
+	font-weight: 400;
 }
 
 #u1196-2,#u1196-3,#u1196-5,#u1196-6
@@ -338,9 +338,9 @@
 
 #u22348
 {
-	height: 1px;
-	z-index: 19;
 	position: relative;
+	z-index: 19;
+	height: 1px;
 }
 
 #u21576
@@ -348,37 +348,37 @@
 	padding-bottom: 0px;
 	position: relative;
 	width: 347px;
-	margin-left: 50%;
 	z-index: 2;
+	margin-left: 50%;
 }
 
 #u21579-5
 {
 	left: -152px;
-	z-index: 7;
 	min-height: 19px;
-	width: 301px;
-	margin-left: 50%;
 	position: relative;
+	width: 301px;
+	z-index: 7;
+	margin-left: 50%;
 }
 
 #u21577-7
 {
-	z-index: 12;
 	min-height: 53px;
-	margin-left: 50%;
 	position: relative;
+	z-index: 12;
+	margin-left: 50%;
 }
 
 #u21580-4
 {
 	left: -174px;
-	z-index: 3;
 	min-height: 21px;
 	margin-top: 25px;
-	width: 347px;
-	margin-left: 50%;
 	position: relative;
+	width: 347px;
+	z-index: 3;
+	margin-left: 50%;
 }
 
 .html
@@ -454,8 +454,8 @@ body
 	{
 		width: 102px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 600;
 		top: 0px;
@@ -473,8 +473,8 @@ body
 	{
 		width: 116px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 451px;
 	}
@@ -490,8 +490,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 343px;
 	}
@@ -500,8 +500,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 235px;
 	}
@@ -510,8 +510,8 @@ body
 	{
 		width: 107px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 20px;
 	}
@@ -527,8 +527,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 127px;
 	}
@@ -703,8 +703,8 @@ body
 	{
 		width: 102px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 600;
 		top: 53px;
@@ -723,8 +723,8 @@ body
 	{
 		width: 116px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -267px;
@@ -741,8 +741,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -151px;
@@ -759,8 +759,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -43px;
@@ -777,8 +777,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: 231px;
@@ -795,8 +795,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: 94px;
@@ -964,8 +964,8 @@ body
 	{
 		width: 69px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		font-family: pt-sans, sans-serif;
 		font-weight: 700;
 		top: 50px;
@@ -984,8 +984,8 @@ body
 	{
 		width: 87px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 50px;
 		left: 50%;
 		margin-left: -197px;
@@ -1002,8 +1002,8 @@ body
 	{
 		width: 100px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 50px;
 		left: 50%;
 		margin-left: -110px;
@@ -1020,8 +1020,8 @@ body
 	{
 		width: 93px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 50px;
 		left: 50%;
 		margin-left: -10px;
@@ -1038,8 +1038,8 @@ body
 	{
 		width: 98px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 50px;
 		left: 50%;
 		margin-left: 188px;
@@ -1056,8 +1056,8 @@ body
 	{
 		width: 105px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 50px;
 		left: 50%;
 		margin-left: 83px;
@@ -1223,8 +1223,8 @@ body
 	{
 		width: 50px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		font-family: pt-sans, sans-serif;
 		font-weight: 700;
 		top: 52px;
@@ -1243,8 +1243,8 @@ body
 	{
 		width: 57px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 52px;
 		left: 50%;
 		margin-left: -132px;
@@ -1261,8 +1261,8 @@ body
 	{
 		width: 53px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 52px;
 		left: 50%;
 		margin-left: -74px;
@@ -1279,8 +1279,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 52px;
 		left: 50%;
 		margin-left: -21px;
@@ -1297,8 +1297,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 52px;
 		left: 50%;
 		margin-left: 114px;
@@ -1315,8 +1315,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 52px;
 		left: 50%;
 		margin-left: 46px;
@@ -1379,8 +1379,8 @@ body
 
 	#u1294-4
 	{
-		font-size: 10px;
 		line-height: 18px;
+		font-size: 10px;
 		margin-top: 9px;
 		width: 76.09%;
 		margin-left: 11.96%;
@@ -1389,8 +1389,8 @@ body
 	#u1191-7
 	{
 		min-height: 213px;
-		font-size: 13px;
 		line-height: 18px;
+		font-size: 13px;
 		margin-top: 19px;
 		width: 76.09%;
 		margin-left: 11.96%;
@@ -1398,8 +1398,8 @@ body
 
 	#u1196-9
 	{
-		font-size: 13px;
 		line-height: 18px;
+		font-size: 13px;
 		margin-top: 18px;
 		width: 76.09%;
 		margin-left: 11.96%;

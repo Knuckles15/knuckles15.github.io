@@ -1,19 +1,19 @@
 .version.products /* version checker */
 {
-	color: #000015;
-	background-color: #69AD6B;
+	color: #0000E1;
+	background-color: #F98C2E;
 }
 
 #page
 {
-	background-image: none;
-	margin-left: auto;
 	background-color: transparent;
 	border-color: #000000;
-	z-index: 1;
-	margin-right: auto;
-	width: 100%;
+	background-image: none;
 	border-width: 0px;
+	width: 100%;
+	z-index: 1;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #pu24317
@@ -24,11 +24,11 @@
 #u24317
 {
 	background-color: #FFFFFF;
-	border-color: #C9C9C9;
-	z-index: 32;
 	position: fixed;
-	top: 0px;
 	border-style: solid;
+	z-index: 32;
+	top: 0px;
+	border-color: #C9C9C9;
 	border-width: 0px 0px 1px;
 }
 
@@ -39,17 +39,17 @@
 
 #u24318-5
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
-	letter-spacing: 1px;
-	z-index: 33;
-	font-size: 22px;
-	font-family: pt-sans, sans-serif;
 	min-height: 32px;
-	width: 213px;
 	line-height: 26px;
+	font-family: pt-sans, sans-serif;
+	letter-spacing: 1px;
+	font-size: 22px;
+	width: 213px;
+	z-index: 33;
 }
 
 #u24318-2
@@ -61,114 +61,114 @@
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 38;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 38;
 }
 
 #u30032
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 39;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 39;
 }
 
 #u30033
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 40;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 40;
 }
 
 #u30037-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 53;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30037-4:hover
 {
-	padding-top: 0px;
 	margin-bottom: 0px;
-	margin-right: 0px;
+	opacity: 0.5;
 	margin-top: 0px;
+	padding-bottom: 0px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	opacity: 0.5;
-	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-right: 0px;
 }
 
 #u30034-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 49;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30036-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 41;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30035-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 45;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30038-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 57;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30039-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 61;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30034-4.MuseLinkActive,#u30036-4:hover,#u30035-4:hover,#u30038-4:hover,#u30039-4:hover
 {
+	margin-top: 0px;
+	padding-bottom: 0px;
 	padding-top: 0px;
 	margin-bottom: 0px;
-	padding-bottom: 0px;
 	margin-right: 0px;
-	margin-top: 0px;
 }
 
 #u30037-4:hover p,#u30034-4.MuseLinkActive p,#u30036-4:hover p,#u30035-4:hover p,#u30038-4:hover p,#u30039-4:hover p
@@ -184,11 +184,11 @@
 
 #u20100-4
 {
-	font-weight: 400;
 	background-color: transparent;
-	position: relative;
 	min-height: 53px;
+	position: relative;
 	z-index: 28;
+	font-weight: 400;
 }
 
 #u20100-2
@@ -199,109 +199,109 @@
 #u20099-4
 {
 	background-color: transparent;
-	z-index: 24;
 	min-height: 41px;
 	margin-top: 6px;
 	position: relative;
+	z-index: 24;
 }
 
 #u25740
 {
-	min-height: 211px;
-	position: relative;
 	border-width: 0px;
-	margin-left: 50%;
 	z-index: 20;
-	border-color: transparent;
+	margin-left: 50%;
+	position: relative;
+	min-height: 211px;
 	width: 407px;
+	border-color: transparent;
 	background: transparent url("../images/%d0%b1%d0%b5%d0%b7-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-1.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u25762
 {
-	min-height: 211px;
-	position: relative;
 	border-width: 0px;
-	margin-left: 50%;
 	z-index: 21;
-	border-color: transparent;
+	margin-left: 50%;
+	position: relative;
+	min-height: 211px;
 	width: 407px;
+	border-color: transparent;
 	background: transparent url("../images/%d0%b1%d0%b5%d0%b7-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u25785
 {
-	min-height: 211px;
-	position: relative;
 	border-width: 0px;
-	margin-left: 50%;
 	z-index: 22;
-	border-color: transparent;
+	margin-left: 50%;
+	position: relative;
+	min-height: 211px;
 	width: 407px;
+	border-color: transparent;
 	background: transparent url("../images/%d0%b1%d0%b5%d0%b7-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-4.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u25786
 {
-	min-height: 211px;
-	position: relative;
 	border-width: 0px;
-	margin-left: 50%;
 	z-index: 23;
-	border-color: transparent;
+	margin-left: 50%;
+	position: relative;
+	min-height: 211px;
 	width: 407px;
+	border-color: transparent;
 	background: transparent url("../images/%d0%b1%d0%b5%d0%b7-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8-3.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u22348
 {
-	height: 1px;
-	z-index: 19;
 	margin-top: 3px;
 	position: relative;
+	z-index: 19;
+	height: 1px;
 }
 
 #u21576
 {
+	margin-top: 31px;
 	padding-bottom: 0px;
 	position: relative;
-	margin-top: 31px;
 	width: 347px;
-	margin-left: 50%;
 	z-index: 2;
+	margin-left: 50%;
 }
 
 #u21579-5
 {
 	left: -152px;
-	z-index: 7;
 	min-height: 19px;
-	width: 301px;
-	margin-left: 50%;
 	position: relative;
+	width: 301px;
+	z-index: 7;
+	margin-left: 50%;
 }
 
 #u21577-7
 {
-	z-index: 12;
 	min-height: 53px;
-	margin-left: 50%;
 	position: relative;
+	z-index: 12;
+	margin-left: 50%;
 }
 
 #u21580-4
 {
 	left: -174px;
-	z-index: 3;
 	min-height: 21px;
 	margin-top: 25px;
-	width: 347px;
-	margin-left: 50%;
 	position: relative;
+	width: 347px;
+	z-index: 3;
+	margin-left: 50%;
 }
 
 .html
@@ -368,8 +368,8 @@ body
 	{
 		width: 102px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 567px;
 	}
@@ -385,8 +385,8 @@ body
 	{
 		width: 116px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 451px;
 	}
@@ -402,8 +402,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 343px;
 	}
@@ -412,8 +412,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 235px;
 	}
@@ -422,8 +422,8 @@ body
 	{
 		width: 107px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 20px;
 	}
@@ -439,8 +439,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 127px;
 	}
@@ -575,8 +575,8 @@ body
 	{
 		width: 102px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -369px;
@@ -593,8 +593,8 @@ body
 	{
 		width: 116px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -267px;
@@ -611,8 +611,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -151px;
@@ -629,8 +629,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -43px;
@@ -647,8 +647,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: 231px;
@@ -665,8 +665,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: 94px;
@@ -789,8 +789,8 @@ body
 	{
 		width: 69px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -276px;
@@ -807,8 +807,8 @@ body
 	{
 		width: 87px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -207px;
@@ -825,8 +825,8 @@ body
 	{
 		width: 100px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -120px;
@@ -843,8 +843,8 @@ body
 	{
 		width: 93px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -20px;
@@ -861,8 +861,8 @@ body
 	{
 		width: 98px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: 178px;
@@ -879,8 +879,8 @@ body
 	{
 		width: 105px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: 73px;
@@ -997,8 +997,8 @@ body
 	{
 		width: 50px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -183px;
@@ -1015,8 +1015,8 @@ body
 	{
 		width: 57px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -132px;
@@ -1033,8 +1033,8 @@ body
 	{
 		width: 53px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -75px;
@@ -1051,8 +1051,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -22px;
@@ -1069,8 +1069,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: 114px;
@@ -1087,8 +1087,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: 45px;
@@ -1116,8 +1116,8 @@ body
 
 	#u20099-4
 	{
-		font-size: 10px;
 		line-height: 18px;
+		font-size: 10px;
 		width: 76.09%;
 		margin-left: 13.27%;
 	}

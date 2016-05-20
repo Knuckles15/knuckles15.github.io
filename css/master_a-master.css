@@ -12,35 +12,35 @@
 
 #u21579-5
 {
-	color: #727272;
 	background-color: transparent;
 	font-family: pt-sans, sans-serif;
+	color: #727272;
 	font-weight: 400;
 }
 
 #u21579-2
 {
-	letter-spacing: 1px;
 	text-align: center;
+	letter-spacing: 1px;
 }
 
 #u21577-7
 {
-	color: #727272;
-	text-align: center;
 	background-color: transparent;
 	font-family: pt-sans, sans-serif;
-	font-weight: 400;
 	letter-spacing: 1px;
+	color: #727272;
+	text-align: center;
+	font-weight: 400;
 }
 
 #u21580-4
 {
-	color: #727272;
-	text-align: center;
+	font-weight: 400;
 	background-color: transparent;
 	font-family: raleway, sans-serif;
-	font-weight: 400;
+	color: #727272;
+	text-align: center;
 	letter-spacing: 2px;
 }
 

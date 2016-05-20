@@ -1,19 +1,19 @@
 .version.shop /* version checker */
 {
-	color: #000001;
-	background-color: #DC7E9D;
+	color: #0000F2;
+	background-color: #4F6EAF;
 }
 
 #page
 {
-	background-image: none;
-	margin-left: auto;
 	background-color: transparent;
 	border-color: #000000;
-	z-index: 1;
-	margin-right: auto;
-	width: 100%;
+	background-image: none;
 	border-width: 0px;
+	width: 100%;
+	z-index: 1;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #pu24590
@@ -24,11 +24,11 @@
 #u24590
 {
 	background-color: #FFFFFF;
-	border-color: #C9C9C9;
-	z-index: 34;
 	position: fixed;
-	top: 0px;
 	border-style: solid;
+	z-index: 34;
+	top: 0px;
+	border-color: #C9C9C9;
 	border-width: 0px 0px 1px;
 }
 
@@ -39,17 +39,17 @@
 
 #u24591-5
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
-	letter-spacing: 1px;
-	z-index: 35;
-	font-size: 22px;
-	font-family: pt-sans, sans-serif;
 	min-height: 32px;
-	width: 213px;
 	line-height: 26px;
+	font-family: pt-sans, sans-serif;
+	letter-spacing: 1px;
+	font-size: 22px;
+	width: 213px;
+	z-index: 35;
 }
 
 #u24591-2
@@ -61,114 +61,114 @@
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 40;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 40;
 }
 
 #u30323
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 41;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 41;
 }
 
 #u30324
 {
 	background-color: transparent;
 	border-color: transparent;
-	z-index: 42;
-	position: fixed;
 	border-width: 0px;
+	position: fixed;
+	z-index: 42;
 }
 
 #u30328-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 55;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30328-4:hover
 {
-	padding-top: 0px;
 	margin-bottom: 0px;
-	margin-right: 0px;
+	opacity: 0.5;
 	margin-top: 0px;
+	padding-bottom: 0px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	opacity: 0.5;
-	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-right: 0px;
 }
 
 #u30325-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 51;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30327-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 43;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30326-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 47;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30329-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 59;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30330-4
 {
-	text-align: center;
 	background-color: transparent;
 	position: fixed;
+	text-align: center;
 	font-weight: 700;
+	font-family: pt-sans, sans-serif;
 	letter-spacing: 1px;
 	z-index: 63;
-	font-family: pt-sans, sans-serif;
 }
 
 #u30325-4:hover,#u30327-4:hover,#u30326-4:hover,#u30329-4.MuseLinkActive,#u30330-4:hover
 {
+	margin-top: 0px;
+	padding-bottom: 0px;
 	padding-top: 0px;
 	margin-bottom: 0px;
-	padding-bottom: 0px;
 	margin-right: 0px;
-	margin-top: 0px;
 }
 
 #u30328-4:hover p,#u30325-4:hover p,#u30327-4:hover p,#u30326-4:hover p,#u30329-4.MuseLinkActive p,#u30330-4:hover p
@@ -184,11 +184,11 @@
 
 #u19671-4
 {
-	font-weight: 400;
 	background-color: transparent;
-	position: relative;
 	min-height: 53px;
+	position: relative;
 	z-index: 26;
+	font-weight: 400;
 }
 
 #u19671-2
@@ -198,34 +198,34 @@
 
 #u19670-6
 {
-	min-height: 41px;
 	background-color: transparent;
-	z-index: 20;
+	min-height: 41px;
 	position: relative;
+	z-index: 20;
 }
 
 #u19799-4
 {
 	background-color: transparent;
 	z-index: 30;
-	font-weight: 400;
-	border-width: 1px;
 	border-style: solid;
-	border-radius: 2px;
-	position: relative;
+	border-width: 1px;
 	margin-left: 50%;
+	position: relative;
+	border-radius: 2px;
+	font-weight: 400;
 	border-color: #29ABE2;
 }
 
 #u19799-4:hover
 {
-	padding-top: 0px;
-	margin-bottom: 0px;
 	background-color: #29ABE2;
 	border-color: #FFFFFF;
-	margin-right: 0px;
 	padding-bottom: 0px;
+	margin-bottom: 0px;
 	margin-left: 50%;
+	padding-top: 0px;
+	margin-right: 0px;
 }
 
 #u19799-4:hover p
@@ -242,48 +242,48 @@
 
 #u22348
 {
-	height: 1px;
-	z-index: 19;
 	position: relative;
+	z-index: 19;
+	height: 1px;
 }
 
 #u21576
 {
+	margin-top: 30px;
 	padding-bottom: 0px;
 	position: relative;
-	margin-top: 30px;
 	width: 347px;
-	margin-left: 50%;
 	z-index: 2;
+	margin-left: 50%;
 }
 
 #u21579-5
 {
 	left: -152px;
-	z-index: 7;
 	min-height: 19px;
-	width: 301px;
-	margin-left: 50%;
 	position: relative;
+	width: 301px;
+	z-index: 7;
+	margin-left: 50%;
 }
 
 #u21577-7
 {
-	z-index: 12;
 	min-height: 53px;
-	margin-left: 50%;
 	position: relative;
+	z-index: 12;
+	margin-left: 50%;
 }
 
 #u21580-4
 {
 	left: -174px;
-	z-index: 3;
 	min-height: 21px;
 	margin-top: 25px;
-	width: 347px;
-	margin-left: 50%;
 	position: relative;
+	width: 347px;
+	z-index: 3;
+	margin-left: 50%;
 }
 
 .html
@@ -356,8 +356,8 @@ body
 	{
 		width: 102px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 567px;
 	}
@@ -373,8 +373,8 @@ body
 	{
 		width: 116px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 451px;
 	}
@@ -390,8 +390,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 343px;
 	}
@@ -400,8 +400,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 235px;
 	}
@@ -410,8 +410,8 @@ body
 	{
 		width: 107px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 20px;
 	}
@@ -427,8 +427,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 0px;
 		right: 127px;
 	}
@@ -556,8 +556,8 @@ body
 	{
 		width: 102px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -369px;
@@ -574,8 +574,8 @@ body
 	{
 		width: 116px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -267px;
@@ -592,8 +592,8 @@ body
 	{
 		width: 108px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -151px;
@@ -610,8 +610,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: -43px;
@@ -628,8 +628,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: 231px;
@@ -646,8 +646,8 @@ body
 	{
 		width: 137px;
 		min-height: 57px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 		top: 53px;
 		left: 50%;
 		margin-left: 94px;
@@ -776,8 +776,8 @@ body
 	{
 		width: 69px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -276px;
@@ -794,8 +794,8 @@ body
 	{
 		width: 87px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -207px;
@@ -812,8 +812,8 @@ body
 	{
 		width: 100px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -120px;
@@ -830,8 +830,8 @@ body
 	{
 		width: 93px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: -20px;
@@ -848,8 +848,8 @@ body
 	{
 		width: 98px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: 178px;
@@ -866,8 +866,8 @@ body
 	{
 		width: 105px;
 		min-height: 57px;
-		font-size: 10px;
 		line-height: 12px;
+		font-size: 10px;
 		top: 52px;
 		left: 50%;
 		margin-left: 73px;
@@ -996,8 +996,8 @@ body
 	{
 		width: 50px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -183px;
@@ -1014,8 +1014,8 @@ body
 	{
 		width: 57px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -133px;
@@ -1032,8 +1032,8 @@ body
 	{
 		width: 53px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -76px;
@@ -1050,8 +1050,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: -22px;
@@ -1068,8 +1068,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: 113px;
@@ -1086,8 +1086,8 @@ body
 	{
 		width: 68px;
 		min-height: 55px;
-		font-size: 8px;
 		line-height: 10px;
+		font-size: 8px;
 		top: 54px;
 		left: 50%;
 		margin-left: 45px;
@@ -1115,8 +1115,8 @@ body
 
 	#u19670-6
 	{
-		font-size: 10px;
 		line-height: 18px;
+		font-size: 10px;
 		margin-top: 2px;
 		width: 73.92%;
 		margin-left: 13.05%;
